@@ -536,10 +536,10 @@ import java.io.*;
 			Graph_M g = new Graph_M();
 			Create_Metro_Map(g);
 			
-			System.out.println("\n\t\t\t****WELCOME TO THE METRO APP*****");
+			System.out.println("\n\t\t\t****WELCOME TO SIGHT- SEEING- TOURIST APP*****");
 			System.out.println("\t\t\t\t~~LIST OF ACTIONS~~\n\n");
-			System.out.println("1. LIST ALL THE STATIONS IN THE MAP");
-			System.out.println("2. SHOW THE METRO MAP");
+			System.out.println("1. LIST ALL THE PLACES IN THE MAP");
+			System.out.println("2. SHOW THE LOCATION  MAP");
 			System.out.println("3. GET SHORTEST DISTANCE FROM A 'SOURCE' STATION TO 'DESTINATION' STATION");
 			System.out.println("4. GET SHORTEST TIME TO REACH FROM A 'SOURCE' STATION TO 'DESTINATION' STATION");
 			System.out.println("5. GET SHORTEST PATH (DISTANCE WISE) TO REACH FROM A 'SOURCE' STATION TO 'DESTINATION' STATION");
