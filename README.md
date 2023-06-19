@@ -1,3 +1,5 @@
+![fr](https://github.com/Sailza/Sight-Seeing-Map-Location/assets/97443167/894fd5ee-7abc-4b96-97c1-dcddc3f42b37)
+
 # Sight-Seeing-Map-Location
 
 
