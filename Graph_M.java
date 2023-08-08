@@ -552,7 +552,7 @@ import java.io.*;
 			{
 				System.out.println("\t\t\t\t~~LIST OF ACTIONS~~\n\n");
 				System.out.println("1. LIST ALL THE STATIONS IN THE MAP");
-				System.out.println("2. SHOW THE METRO MAP");
+				System.out.println("2. SHOW THE MAP");
 				System.out.println("3. GET SHORTEST DISTANCE FROM A 'SOURCE' STATION TO 'DESTINATION' STATION");
 				System.out.println("4. GET SHORTEST TIME TO REACH FROM A 'SOURCE' STATION TO 'DESTINATION' STATION");
 				System.out.println("5. GET SHORTEST PATH (DISTANCE WISE) TO REACH FROM A 'SOURCE' STATION TO 'DESTINATION' STATION");
